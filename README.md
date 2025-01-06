@@ -11,17 +11,13 @@ PacketDDoser is a small project created by the Verusa Team. Free DDos software w
 
 1. Is it safe?
 
-   For you, sure. for the victim? It depends which course of action you decide to take.
-
-2. Is it an Open-Source?
-
-    The simple answer is no.
-
-3. Whats the history behind the Verusa Team?
+   For you, obviously!
+   
+2. Whats the history behind the Verusa Team?
 
    Check the History Section on this README.
 
-4. Where do I find the real website incase theres fake ones?
+3. Where do I find the real website incase theres fake ones?
 
    The real and only website of PacketDDoser will FOREVER be **verusa-real.github.io/PacketDDoser/** [Click here to be redirected.](https://verusa-real.github.io/PacketDDoser/)
 
