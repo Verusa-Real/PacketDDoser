@@ -1,4 +1,4 @@
-### ***WANT TO DOWNLOAD? **verusa-real.github.io/Verusa-Tool/** [Click here for the Website](https://verusa-real.github.io/Verusa-Tool/)***
+### ***WANT TO DOWNLOAD? **verusa-real.github.io/PacketDDoser/** [Click here to be redirected.](https://verusa-real.github.io/PacketDDoser/)***
 
 ***IF YOU EXPERIENCE ANY ERRORS OR BUGS PLEASE CONTACT US, TO FIND OUT HOW TO CONTACT US READ THE CONTACTING SECTION.***
 
@@ -23,7 +23,7 @@ PacketDDoser is a small project created by the Verusa Team. Free DDos software w
 
 4. Where do I find the real website incase theres fake ones?
 
-   The real and only website of PacketDDoser will FOREVER be **verusa-real.github.io/Verusa-Tool/** [Click here for the Website](https://verusa-real.github.io/Verusa-Tool/)
+   The real and only website of PacketDDoser will FOREVER be **verusa-real.github.io/PacketDDoser/** [Click here to be redirected.](https://verusa-real.github.io/PacketDDoser/)
 
 ### Profits
 
